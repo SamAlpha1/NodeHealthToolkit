@@ -52,4 +52,10 @@ Environment configuration is available through `.env.example`.
 
 The tool only reads local system statistics and optionally performs read-only JSON-RPC calls. It does not require private keys or wallet credentials.
 
-Maintained by **SamAlpha1** · X: **@samalpha_**
+---
+
+## More from SamAlpha1
+
+Before running unfamiliar GitHub or Web3 code, scan the account and its public repositories with **[GitHub Trust Auditor](https://samalpha1.github.io/GitHubTrustAuditor/)**.
+
+Maintained by **[SamAlpha1](https://github.com/SamAlpha1)** · Follow **[@samalpha_ on X](https://x.com/samalpha_)**
